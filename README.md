@@ -1,5 +1,5 @@
 # About Me:
-Certified Data Analyst with a strong background in life sciences, experienced in leveraging and transforming complex datasets into actionable, strategic, data-driven solutions. 
+I am a certified Data Analyst with a strong background in life sciences, experienced in leveraging and transforming complex datasets into actionable, strategic, data-driven solutions. 
 
 With over 5 years of experience in customer relationship management, I specialize in using Excel, SQL, Tableau, and Python to tackle challenges across both small and large-scale datasets.
 
