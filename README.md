@@ -14,7 +14,8 @@ Project Coordination: Developed custom solutions—including optimized productio
 
 Account & Operations Management: Resolved orders, complex inquiries and complaints effciently ensuring smooth transactions and reinforcing customer confdence in our services.
 
-
+### Data Analysis Certifcation
+CareerFoundry
 ### Projects
 Medical Resource Allocation During the Infuenza Season
 Optimized medical staff allocation using data-driven insights from CDC datasets.
