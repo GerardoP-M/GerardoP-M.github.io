@@ -58,19 +58,11 @@ Venezuela
 
 
 ### Languages
-Spanish - C2
-
-
-English - C1
-
-
-German - B2
-
-
-French - A2
-
-
-Italian - A1
+- Spanish - C2
+- English - C1
+- German - B2
+- French - A2
+- Italian - A1
 
 
   
