@@ -5,7 +5,7 @@ With over 5 years of experience in customer relationship management, I specializ
 
 I bring a unique blend of marine and molecular biology expertise, along with hands-on experience in customer support to every project --creatively uncovering insights and presenting findings in ways that drive innovation, customer retention, and decision-making.
 
-Explore some of my projects below, and don’t hesitate to reach out if you’d like to discuss how I can contribute to your next project or challenge!
+Explore some of my projects and don’t hesitate to reach out if you’d like to collaborate!
 
 
   
