@@ -1,8 +1,10 @@
 # Data Analyst - Senior Customer Support Specialist
 Data analyst with a solid background in molecular biology and over 5 years of experience
-in customer relationships within the Life Science feld.
+in customer relationships within the Life Science field.
 Experienced with competencies in the analysis of small to large scale datasets, using Excel,
-SQL, Tableau and Python
+SQL, Tableau and Python.
+I combine my background in marine and molecular biology to creatively enhance the ways I discover and present data-driven findings. 
+Dive into some of my projects, and feel free to get in touch if you have any questions!
 
 
 ### Work Experience
