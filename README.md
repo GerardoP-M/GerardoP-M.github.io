@@ -49,6 +49,11 @@ acid cues drive systemic acquired resistance signal generation” bioRxiv – do
 10.1101/2021.01.20.427489
 
 
+Bachelor of Science - Marine Biology
+Universidad de Oriente (UDO), Margarita Island
+Venezuela
+
+
 ### Languages
 Spanish - C2
 English - C1
@@ -59,6 +64,4 @@ Italian - A1
 
   
 
-Bachelor of Science - Marine Biology
-Universidad de Oriente (UDO), Margarita Island
-Venezuela
+
