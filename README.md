@@ -18,7 +18,7 @@ Project Coordination and Account Management: Developed custom solutions for cust
 
 
 ## Data Analysis Certification
-CareerFoundry
+
 ### Projects
 ### Medical Resource Allocation During the Infuenza Season
 
