@@ -1,14 +1,13 @@
-# Data Analyst - Senior Customer Support Specialist
-Data analyst with a solid background in molecular biology and over 5 years of experience
-in customer relationships within the Life Science field.
-Experienced with competencies in the analysis of small to large scale datasets, using Excel,
-SQL, Tableau and Python.
-I combine my background in marine and molecular biology to creatively enhance the ways I discover and present data-driven findings. 
-Dive into some of my projects, and feel free to get in touch if you have any questions!
+# Data Analyst
+Certified Data Analyst with a strong background in life sciences, experienced in leveraging and transforming complex datasets into actionable, data-driven strategies. With over 5 years of experience in customer relationship management, I excel at using Excel, SQL, Tableau, and Python to tackle challenges across both small and large-scale datasets.
+
+I bring a unique blend of marine and molecular biology expertise, along with hands-on experience in customer support to every project --creatively uncovering insights and presenting findings in ways that drive innovation, customer retention and decision-making.
+
+Explore some of my projects below, and don’t hesitate to reach out if you’d like to discuss how I can contribute to your next project or challenge!
 
 
 ### Work Experience
-Eurofins Genomics GmbH
+Senior Customer Support Specialist - Eurofins Genomics GmbH
 Customer Relationship Management: Led the customer support department for synthetic DNA, ensuring seamless operations that fostered high client retention and new customer acquisition by providing expert product guidance via email and phone.
 
 Project Coordination and Account Management: Developed custom solutions for customers—including optimized production, pricing, and logistics—by streamlining collaboration between sales and production teams, generating quotes and orders for customers across Europe. 
