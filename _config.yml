@@ -6,3 +6,5 @@ email: "mailto:geramed.perez@gmail.com"
 linkedin: "https://www.linkedin.com/in/gerardo-perez-medina/"
 show_downloads: False
 theme: minima
+sass:
+  style: compressed
