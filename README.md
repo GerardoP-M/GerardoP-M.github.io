@@ -20,7 +20,7 @@ Optimized medical staff allocation using data-driven insights from CDC datasets.
 Cleaned, integrated, and visualized data to support resource planning, presenting fndings through a structured visual storyboard.
 Tools: Excel, Tableau
 
-"Images/usa map influenza.png"
+![USA Map Influenza](images/usa%20map%20influenza.png)
 "Images/correlation - population -death toll.png"
 "Images/heatmap influenza usa.png"
 
