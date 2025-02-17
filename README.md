@@ -8,6 +8,8 @@ Explore some of my projects below, and don’t hesitate to reach out if you’d 
 
 ## Work Experience
 Senior Customer Support Specialist - Eurofins Genomics GmbH
+
+
 Customer Relationship Management: Led the customer support department for synthetic DNA, ensuring seamless operations that fostered high client retention and new customer acquisition by providing expert product guidance via email and phone.
 
 Project Coordination and Account Management: Developed custom solutions for customers—including optimized production, pricing, and logistics—by streamlining collaboration between sales and production teams, generating quotes and orders for customers across Europe. 
