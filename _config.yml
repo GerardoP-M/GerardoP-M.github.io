@@ -1,10 +1,16 @@
-title: Gerardo J. Pérez Medina
+title: "Gerardo J. Pérez Medina"
 logo: "images/bild1.png"
 description: |
-  I am a certified data analyst with a passion for transforming datasets into actionable insights!
+  Certified Data Analyst with a passion for transforming data into meaningful strategies.
 email: "mailto:geramed.perez@gmail.com"
 linkedin: "https://www.linkedin.com/in/gerardo-perez-medina/"
-show_downloads: False
+show_downloads: false
 theme: minima
-sass:
-  style: compressed
+
+# Minima theme configuration
+minima:
+  skin: light
+  social_links:
+    email: "geramed.perez@gmail.com"
+    linkedin: "gerardo-perez-medina"
+    github: "GerardoP-M"
