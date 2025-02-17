@@ -1,3 +1,4 @@
+theme: jekyll-theme-minimal
 title: Gerardo J. Pérez Medina
 logo: "images/bild1.png"
 description: |
@@ -9,4 +10,4 @@ description: |
   email - geramed.perez@gmail.com
 linkedin: "https://www.linkedin.com/in/gerardo-perez-medina/"
 show_downloads: False
-theme: jekyll-theme-minimal
+
