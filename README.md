@@ -23,7 +23,9 @@ CareerFoundry
 
 
 Optimized medical staff allocation using data-driven insights from CDC datasets.
+
 Cleaned, integrated, and visualized data to support resource planning, presenting fndings through a structured visual storyboard.
+
 Tools: Excel, Tableau
 
 
@@ -49,17 +51,29 @@ Tools: Excel, Tableau
 
 
 Rockbuster Stealth - Multimedia Streaming Analytics
+
+
 Analyzed customer preferences and media consumption to improve user experience and retention.
+
+
 Identifed key engagement metrics and provided strategic recommendations
 to enhance global audience reach.
+
+
 Tools: SQL, PowerPoint
 
 
 
 Coral Bleaching - A Global Assessment
+
+
 Performed geospatial analysis to map severe coral bleaching regions.
+
+
 Assessed environmental stressors using statistical methods and visualized
 large-scale datasets with advanced programming techniques.
+
+
 Tools: Python, Pandas, Tableau
 
 
