@@ -20,9 +20,9 @@ Optimized medical staff allocation using data-driven insights from CDC datasets.
 Cleaned, integrated, and visualized data to support resource planning, presenting fndings through a structured visual storyboard.
 Tools: Excel, Tableau
 
-![USA Map Influenza](images/usa%20map%20influenza.png)
-![Correlation graph](images/correlation%20-%20population%20-death%20toll.png)
-![USA heatmap](images/heatmap%20influenza%20usa.png)
+<img src="images/usa%20map%20influenza.png" width="500" />
+<img src="images/correlation%20-%20population%20-death%20toll.png" width="500" />
+<img src="images/heatmap%20influenza%20usa.png" width="500" />
 
 
 Rockbuster Stealth - Multimedia Streaming Analytics
