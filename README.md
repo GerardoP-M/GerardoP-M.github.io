@@ -13,7 +13,7 @@ Customer Relationship Management: Led the customer support department for synthe
 Project Coordination and Account Management: Developed custom solutions for customers—including optimized production, pricing, and logistics—by streamlining collaboration between sales and production teams, generating quotes and orders for customers across Europe. 
 
 
-## Data Analysis Certifcation
+## Data Analysis Certification
 CareerFoundry
 ### Projects
 Medical Resource Allocation During the Infuenza Season
