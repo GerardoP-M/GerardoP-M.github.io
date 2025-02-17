@@ -21,8 +21,8 @@ Cleaned, integrated, and visualized data to support resource planning, presentin
 Tools: Excel, Tableau
 
 ![USA Map Influenza](images/usa%20map%20influenza.png)
-"Images/correlation - population -death toll.png"
-"Images/heatmap influenza usa.png"
+![Correlation graph](images/correlation%20-%20population%20-death%20toll.png")
+![USA heatmap]("images/heatmap%20influenza%20usa.png")
 
 
 Rockbuster Stealth - Multimedia Streaming Analytics
