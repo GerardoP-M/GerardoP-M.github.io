@@ -8,11 +8,11 @@ SQL, Tableau and Python
 ### Work Experience
 Eurofins Genomics GmbH
 Customer Relationship Management: Led the customer support department for synthetic DNA, ensuring seamless operations that fostered high client retention and new customer acquisition by providing expert product guidance via email and phone.
-Project Coordination: Developed custom solutions—including optimized
-production, pricing, and logistics—by streamlining collaboration between sales and production teams.
-Account & Operations Management: Resolved orders, complex inquiries
-and complaints effciently ensuring smooth transactions and reinforcing
-customer confdence in our services.
+
+Project Coordination: Developed custom solutions—including optimized production, pricing, and logistics—by streamlining collaboration between sales and production teams.
+
+
+Account & Operations Management: Resolved orders, complex inquiries and complaints effciently ensuring smooth transactions and reinforcing customer confdence in our services.
 
 
 ### Projects
