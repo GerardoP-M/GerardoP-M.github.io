@@ -6,14 +6,14 @@ I bring a unique blend of marine and molecular biology expertise, along with han
 Explore some of my projects below, and don’t hesitate to reach out if you’d like to discuss how I can contribute to your next project or challenge!
 
 
-### Work Experience
+## Work Experience
 Senior Customer Support Specialist - Eurofins Genomics GmbH
 Customer Relationship Management: Led the customer support department for synthetic DNA, ensuring seamless operations that fostered high client retention and new customer acquisition by providing expert product guidance via email and phone.
 
 Project Coordination and Account Management: Developed custom solutions for customers—including optimized production, pricing, and logistics—by streamlining collaboration between sales and production teams, generating quotes and orders for customers across Europe. 
 
 
-### Data Analysis Certifcation
+## Data Analysis Certifcation
 CareerFoundry
 ### Projects
 Medical Resource Allocation During the Infuenza Season
@@ -42,7 +42,7 @@ Tools: Python, Pandas, Tableau
 
 
 
-### Education
+## Education
 Master of Science - Horticultural Science
 Technical University of Munich (TUM)
 Germany
@@ -58,7 +58,7 @@ Universidad de Oriente (UDO), Margarita Island
 Venezuela
 
 
-### Languages
+## Languages
 - Spanish - C2
 - English - C1
 - German - B2
